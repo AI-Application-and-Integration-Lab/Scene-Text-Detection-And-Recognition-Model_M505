@@ -1,0 +1,1 @@
+# Scene-Text-Detection-And-Recognition-Model_M505
